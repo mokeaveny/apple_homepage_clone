@@ -142,13 +142,28 @@ main {
 
 .main_section_text {
 	display: inline-block;
-	margin-left: 500px;
+	margin-left: 475px;
 	margin-top: 80px;
 	font-size: 24px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+	color: white;
 }
 
 #title_text {
-	
+	font-size: 50px;
+	padding-bottom: 20px;
+}
+
+#second_line_text {
+	padding-right: 10px;
+	margin-left: -45px;
+	padding-bottom: 5px;
+}
+
+#your_verse_text {
+	font-size: 20px;
+	margin-left: 50px;
+	padding-top: 30px;
 }
 
 .promos {
